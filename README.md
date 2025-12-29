@@ -5,7 +5,7 @@
   </a>
 </p>
 
----
+
 
 # Nanobanana Batch API Image Generator
 
