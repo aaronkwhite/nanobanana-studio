@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/aaronkwhite">
-    <img src="https://github.com/user-attachments/assets/fa213bf0-9dc1-4c94-b5d2-3e0612ccb37d" width="80" alt="Buy Me A Coffee" />
+    <img src="https://github.com/user-attachments/assets/fa213bf0-9dc1-4c94-b5d2-3e0612ccb37d" width="172" alt="Buy Me A Coffee" />
   </a>
 </p>
 
