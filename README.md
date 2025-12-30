@@ -1,15 +1,16 @@
 <p align="center">
-  <i>If you find this project useful, consider supporting its development</i><br><br>
+  <img src="https://github.com/user-attachments/assets/1c89dc8f-39fd-4fca-a1ed-43a7e6ba81b1" width="120" alt="Nanobanana Logo" /><br><br>
+  <b>Nanobanana Studio</b><br>
+  <i>A lightweight, self-hosted batch image generator powered by Google's Gemini API.<br>Generate and transform images at <b>50% reduced cost</b> using the Batch API.</i>
+</p>
+
+<p align="center">
   <a href="https://buymeacoffee.com/aaronkwhite">
-    <img src="https://github.com/user-attachments/assets/d1ba6440-d809-431c-8b3e-74e2380d2c64" width="120" alt="Buy Me A Coffee" />
+    <img src="https://github.com/user-attachments/assets/fa213bf0-9dc1-4c94-b5d2-3e0612ccb37d" width="80" alt="Buy Me A Coffee" />
   </a>
 </p>
 
-
-
-# Nanobanana Batch API Image Generator
-
-A lightweight, self-hosted batch image generator powered by Google's Gemini API. Generate and transform images at **50% reduced cost** using the Batch API.
+---
 
 <p>
   <img src="https://github.com/user-attachments/assets/53b686f4-d92d-48a3-9d2f-a88ee8961f66" width="49%" />
